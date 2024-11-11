@@ -22,4 +22,4 @@ The card (either physical or digital) is linked to the user’s account.
 The user becomes a cardholder when both the physical and digital cards are linked to their account.
 
 # Summary:
-This process outlines how a user progresses from installing the app to becoming a cardholder with full access to all card functionalities.
+The user funnel provides a clear view of our users' behavior, helping us identify at which stages users drop off and how many are affected as they progress through each phase of the funnel. This analysis is key for understanding user behavior and making strategic decisions to optimize conversion
