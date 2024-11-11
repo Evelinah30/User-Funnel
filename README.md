@@ -1,4 +1,5 @@
-# User-Funnel
+# User-Funnel 
+
 This flow represents the progressive steps a user follows, from installing the app to becoming a cardholder with full access.
 Additionally, we analyzed the transactions performed at each stage to better understand user behavior and optimize the experience.
 
